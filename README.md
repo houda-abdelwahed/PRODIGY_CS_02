@@ -12,12 +12,11 @@ This Python script demonstrates how to encrypt and decrypt images using AES (Adv
 ## Usage
 
 1. **Install Dependencies**: Make sure you have installed the necessary dependencies by running the following commands:
-2. +pip install pillow
-   +pip install pycryptodome
+ -pip install pillow
+   -pip install pycryptodome
 
-2. **Run the Script**: Execute the Python script `encrypt_decrypt_image.py` with the appropriate command-line arguments: python encrypt_decrypt_image.py
-3. 
-Replace `encrypt_decrypt_image.py` with the name of the Python script containing the provided code.
+2. **Run the Script**: Execute the Python script `encrypt_decrypt_image.py` with the appropriate command-line arguments: python encrypt_decrypt_image.py 
+    Replace `encrypt_decrypt_image.py` with the name of the Python script containing the provided code.
 
 3. **Provide Input Image**: When prompted, enter the path to the input image file that you want to encrypt and decrypt.
 
